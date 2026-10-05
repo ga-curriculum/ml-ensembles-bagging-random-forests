@@ -23,7 +23,7 @@ Learn what ensemble methods are, how to fit and evaluate bagged decision trees a
 | Topic | Skills |
 | ------ | ------ |
 | [Slides](https://github.com/ga-curriculum/ml-ensembles-bagging-random-forests/blob/main/01-slides/Ensemble-Models-Bagging-Random-Forests.pdf){:target="_blank"} | - Conceptual overview of bootstrapping, bagging and random forests |
-| [Ensemble Methods: Bagging & Random Forests](./02-ensembles-bagging-random-forest/) | - Walkthrough of ensemble learning, bootstrap sampling, and building a Bagging Classifier and a Random Forest Classifier model using `scikit-learn`. |
+| [Ensemble Methods: Bagging & Random Forests](https://github.com/ga-curriculum/ml-ensembles-bagging-random-forests){:target="_blank"} | - Walkthrough of ensemble learning, bootstrap sampling, and building a Bagging Classifier and a Random Forest Classifier model using `scikit-learn`. |
 
 
 ## Prerequisites
